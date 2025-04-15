@@ -1,0 +1,3 @@
+My biggest design choise when making this class, was deciding what I want to return.
+I decided, that returning true or false for methods that alter the state was a decent choise, but this could've also been implemented using exceptions.
+

@@ -1,0 +1,23 @@
+First off, I am not familiar with creating front ends. However, I was happy with what I was able to produce within this short time.
+
+Process of creating the chatbot:
+1.
+I searched on the internet for python tools to 1 - use openai API, 2 - create simple visual interfaces.
+
+2.
+I used these to create two separate apps. One to test how openai package works and how I can create requests, second one to create a mockup interface.
+
+3.
+Combine these two functionalities to create a working app. 
+
+4.
+Work on the visual face of the UI (as much as I could spare time for it)
+Also fixed some unwanted features.
+-Lock the chat history box, originally i was able to freely write and remove text from there
+-Prevent empty strings, openai library throws errors if attempted.
+
+Overall I had a great time overcoming the problems of this task. I usually end up spending lots of time satisfying my curiosity on stuff, that might not even end in my projects,
+but working under time pressure to create something very much sped up that process.
+
+I also had to sacrifice some of my task 2 to finish this one. Not regretting it though because I learnt way more new things doing this.
+I decided to do this, as it seemed like this was the more important one among the tasks.
